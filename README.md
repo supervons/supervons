@@ -3,7 +3,7 @@
 ### I'm Vons Feng（冯一朔）.
 
 - 😁 I like the feeling of being totally involved.
-- 🌱 I’m currently learning NodeJS and C.
+- 🌱 I’m currently learning Nginx,NodeJS and C.
 - 💬 Ask me about React, React-Native, JS, NodeJS and my projects on supervons@sina.com.
 - 🎙 I'm a Rapper.
 
