@@ -8,4 +8,9 @@
 - 🎙 I'm a Rapper.
 
 ### CCSM(Coffee-Code-Switching-Machine)！！！
-![github stats](https://github-readme-stats.vercel.app/api?username=supervons&show_icons=true)
+<p  align="center">
+<a href="javaScript:">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=supervons&count_private=true&show_icons=true"/>
+  <img height="180em" width="350em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=supervons&layout=compact&langs_count=8"/>
+</a>
+</p>
