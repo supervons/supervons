@@ -2,10 +2,10 @@
 [![Mail Badge](https://img.shields.io/badge/-supervons@sina.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haoruileee@gmail.com)](mailto:haoruileee@gmail.com)
 ## I'm Vons Feng（冯一朔）.
 
-- #### 😁 I was engrossed coding.
+- #### 😁 Code player.
 - #### 🌱 I’m currently learning Philosophy,Nginx,NodeJS and C.
 - #### 💬 Ask me about React, React-Native, JS, NodeJS and my projects on supervons@sina.com.
-- #### 🎙 I'm a Rapper.
+- #### 🎙 I'm a rapper, hide on coder, looking swagger, don't like drama because life is struggle.
 
 ## CCSM(Coffee-Code-Switching-Machine)🚀🚀🚀！！！
 <p  align="center">
