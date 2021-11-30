@@ -3,7 +3,7 @@
 ## I'm Vons Feng（冯一朔）.
 
 - #### 😁 Code player.
-- #### 🌱 I’m currently learning Philosophy,Nginx,NodeJS and C.
+- #### 🌱 I’m currently reflect HTTP/JS.
 - #### 💬 Ask me about React, React-Native, JS, NodeJS and my projects on supervons@sina.com.
 - #### 🎙 I'm a rapper, hide on coder, looking swagger, don't like drama because life is struggle.
 
