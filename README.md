@@ -3,7 +3,7 @@
 ## I'm Vons Feng（冯一朔）
 
 - #### 😁 I said i’m geeked and i’m fired up.
-- #### 🌱 I’m currently reflect JS.
+- #### 🌱 I’m currently reflect JS/TS/Philosophy.
 - #### 💬 Ask me about React, React-Native, JS, NodeJS and my projects on supervons@sina.com.
 - #### 🎙 I'm a rapper, hide on coder, looking swagger, don't like drama because life is struggle.
 - #### :spades:K: 2022 to be Super Vons Pro Max .
