@@ -8,7 +8,7 @@
 - #### 🎙 I'm a rapper, hide on coder, looking swagger, don't like drama because life is struggle.
 - #### :spades:K: 2022 to be Super Vons Pro Max.
 
-## Focus my life.🚀🚀🚀！！！
+## Focus my code, want be a hero, the fact is noob, oh no no no i just take a joke.🚀🚀🚀！！！
 <p  align="center">
 <a href="javaScript:">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=supervons&count_private=true&show_icons=true"/>
