@@ -3,7 +3,7 @@
 ## I'm Vons Feng（冯一朔）
 
 - #### 🍉 Get me more!
-- #### 🌱 I’m currently reflect JS/TS/Philosophy/Webpack5.
+- #### 🌱 I’m currently reflect JS&Webpack5.
 - #### 💬 Ask me about React, React-Native, JS, NodeJS and my projects on supervons@sina.com.
 - #### 🎙 I'm a rapper, hide on coder, looking swagger, don't like drama because life is struggle.
 - #### :spades:K: 2022 to be Super Vons Pro Max.
