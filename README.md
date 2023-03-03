@@ -8,7 +8,7 @@
 - #### 🎙 I'm a rapper, hide on coder, looking swagger, don't like drama because life is struggle.
 - #### :spades:A: 2022 to be Super Vons Pro Max.
 - #### ✨ Sign of the times!
-- #### 🤖 Crazy coding machine.
+- #### 🤖 Like water.
 
 ## Technology has no borders.🚀🚀🚀！！！
 <p  align="center">
