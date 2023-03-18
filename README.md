@@ -2,7 +2,7 @@
 [![Mail Badge](https://img.shields.io/badge/-supervons@sina.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haoruileee@gmail.com)](mailto:haoruileee@gmail.com)
 ## I'm Vons Feng（朔一）
 
-- #### 🔥 2023，Be explorer!
+- #### 🔥 2023，Be explorer! New life!
 - #### 🌱 I’m currently learn Node.js,Webpack5 and project manage.
 - #### 💬 Ask me about React, React-Native, JS, NodeJS and my projects on supervons@sina.com.
 - #### 🎙 I'm a rapper, hide on coder, looking swagger, don't like drama because life is struggle.
