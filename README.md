@@ -6,7 +6,6 @@
 - #### 🌱 I’m currently learn Node.js,Webpack5 and project manage.
 - #### 💬 Ask me about React, React-Native, JS, NodeJS and my projects on supervons@sina.com.
 - #### 🎙 I'm a rapper, hide on coder, looking swagger, don't like drama because life is struggle.
-- #### :spades:A: 2022 to be Super Vons Pro Max.
 - #### ✨ Sign of the times!
 - #### 🤖 Like water.
 
