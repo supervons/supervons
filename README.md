@@ -12,7 +12,7 @@
 ## Technology has no borders.🚀🚀🚀！！！
 <p  align="center">
 <a href="javaScript:">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=supervons&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=supervons&theme=github"/>
   <img height="180em" width="350em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=supervons&layout=compact&langs_count=8"/>
 </a>
 </p>
