@@ -1,7 +1,7 @@
 [![Blog Badge](https://img.shields.io/badge/blog-172k%20pageview-brightgreen)](https://blog.csdn.net/qq934235475) 
 [![Mail Badge](https://img.shields.io/badge/-supervons@sina.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haoruileee@gmail.com)](mailto:haoruileee@gmail.com)
 ## I'm Vons Feng（朔一）
-- #### 🔥 For life!
+- #### 🔥 For alive or for die!
 - #### 🌱 I’m currently learn Serverless,WebGL,GLSL,Node.js,Webpack5 and project manage.
 - #### 💬 Ask me about React, React-Native, JS, NodeJS and my projects on supervons@sina.com.
 - #### 🎙 I'm a rapper, hide on coder, looking swagger, don't like drama because life is struggle.
