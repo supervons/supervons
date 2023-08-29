@@ -8,7 +8,7 @@
 - #### ✨ Sign of the times!
 - #### 🧁 Let them eat cake then find moola.
 
-## Technology has no borders.🚀🚀🚀！！！
+## Technology no borders.🚀🚀🚀！！！
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=070408&width=435&lines=Know+yourself.)](https://git.io/typing-svg)
 <p  align="center">
 <a href="javaScript:">
