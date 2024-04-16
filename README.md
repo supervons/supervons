@@ -7,7 +7,7 @@
 
 - 💬 **Ask me about React, React-Native, JS, NodeJS and my projects on supervons@sina.com.**
 
-- 🎙 **I'm a rapper, hide on coder, looking swagger, don't like drama because life is struggle.**
+- 🎙 **I'm a rapper, hide on coder, looking swagger, hate drama because life is struggle.**
 
 - ✨ **Sign of the times!**
 
